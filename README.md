@@ -3,7 +3,7 @@
 
 - Projects I am currently interested in and/or working on are: 
 - 1. A Tire Pressure Monitoring System for my 94' Wrangler with a live in-cab display.
-- 2. A point-based map and destination application designed to efficiently decide clients for professional petsitters based on relevant location and client relation.
+- 2. A point-based map and destination application designed to efficiently choose clients for professional petsitters based on relevant location and client relation.
 - 3. A data collection and representation database using wolf location/wolf kill sites to present to wolf reintroduction opposition in C.O.. 
 
 - I can be contacted at zlamb_94@hotmail.com or zplamb@colostate.edu
