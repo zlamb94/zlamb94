@@ -1,4 +1,4 @@
-- Hello, my name is Zachariah Lamb. I recently made the switch from a wildlife sanctuary career to Computer Science!
+- Hello, my name is Zachariah (Zack) Lamb. I recently made the switch from a wildlife sanctuary career to Computer Science!
 - I am currently a Sophomore at Colorado State University in Fort Collins, Colorado majoring in Computer Science with a concentration in A.I. and Machine Learning.
 
 - Projects I am currently interested in and/or working on are: 
