@@ -1,5 +1,5 @@
 - Hello, my name is Zachariah (Zack) Lamb. I recently made the switch from a wildlife sanctuary career to Computer Science!
-- I am currently a Sophomore at Colorado State University in Fort Collins, Colorado majoring in Computer Science with a concentration in A.I. and Machine Learning.
+- I am currently a Senior at Colorado State University in Fort Collins, Colorado majoring in Computer Science with a concentration in A.I. and Machine Learning.
 
 - Projects I am currently interested in and/or working on are: 
 - 1. A Tire Pressure Monitoring System for my 94' Wrangler with a live in-cab display.
